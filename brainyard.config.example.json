@@ -1,0 +1,11 @@
+{
+  "basicMemoryProject": "",
+  "maintenance": {
+    "idleMinutes": 10,
+    "startupDelaySeconds": 300
+  },
+  "agent": {
+    "command": "codex",
+    "sandbox": "workspace-write"
+  }
+}

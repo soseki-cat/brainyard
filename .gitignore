@@ -1,0 +1,24 @@
+# Local Brainyard configuration and runtime state
+brainyard.config.json
+tools/maintenance/
+
+# Obsidian editor state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/plugins/*/data.json
+
+# Agent session data
+.claudian/
+.codex/
+
+# Obsidian trash
+.trash/
+
+# OS and editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.swp
+*~
